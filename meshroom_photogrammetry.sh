@@ -1,2 +1,2 @@
 #!/bin/bash
-./meshroom.sh bin/meshroom_photogrammetry $@
+./meshroom.sh bin/meshroom_batch $@

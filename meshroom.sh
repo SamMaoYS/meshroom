@@ -2,7 +2,7 @@
 
 # this should point to the installation folder of AliceVision, for the pre-built binaries
 # it would be the full path to the folder aliceVision
-export ALICEVISION_INSTALL=/home/sam/Development/Lab/multiscan/dependencies/meshroom/install
+export ALICEVISION_INSTALL=/home/sam/Development/Lab/meshroom/install
 
 export PATH=$PATH:${ALICEVISION_INSTALL}/bin
 
